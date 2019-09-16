@@ -1,0 +1,90 @@
+[submodule "base16-atlas-scheme"]
+	path = base16-atlas-scheme
+	url = https://github.com/ajlende/base16-atlas-scheme.git
+[submodule "base16-brogrammer-scheme"]
+	path = base16-brogrammer-scheme
+	url = https://github.com/vviikk/base16-brogrammer-scheme.git
+[submodule "base16-circus-scheme"]
+	path = base16-circus-scheme
+	url = https://github.com/stepchowfun/base16-circus-scheme.git
+[submodule "base16-default-schemes"]
+	path = base16-default-schemes
+	url = https://github.com/chriskempson/base16-default-schemes.git
+[submodule "base16-dracula-scheme"]
+	path = base16-dracula-scheme
+	url = https://github.com/dracula/base16-dracula-scheme.git
+[submodule "base16-espresso-scheme"]
+	path = base16-espresso-scheme
+	url = https://github.com/alexmirrington/base16-espresso-scheme.git
+[submodule "base16-fruit-soda-scheme"]
+	path = base16-fruit-soda-scheme
+	url = https://github.com/jozip/base16-fruit-soda-scheme.git
+[submodule "base16-gruvbox-scheme"]
+	path = base16-gruvbox-scheme
+	url = https://github.com/dawikur/base16-gruvbox-scheme.git
+[submodule "base16-heetch-scheme"]
+	path = base16-heetch-scheme
+	url = https://github.com/tealeg/base16-heetch-scheme.git
+[submodule "base16-helios-scheme"]
+	path = base16-helios-scheme
+	url = https://github.com/reyemxela/base16-helios-scheme.git
+[submodule "base16-horizon-scheme"]
+	path = base16-horizon-scheme
+	url = https://github.com/michael-ball/base16-horizon-scheme.git
+[submodule "base16-icy-scheme"]
+	path = base16-icy-scheme
+	url = https://github.com/icyphox/base16-icy-scheme.git
+[submodule "base16-materialtheme-scheme"]
+	path = base16-materialtheme-scheme
+	url = https://github.com/ntpeters/base16-materialtheme-scheme.git
+[submodule "base16-material-vivid-scheme"]
+	path = base16-material-vivid-scheme
+	url = https://github.com/joshyrobot/base16-material-vivid-scheme.git
+[submodule "base16-materia-scheme"]
+	path = base16-materia-scheme
+	url = https://github.com/Defman21/base16-materia-scheme.git
+[submodule "base16-mexico-light-scheme"]
+	path = base16-mexico-light-scheme
+	url = https://github.com/drzel/base16-mexico-light-scheme.git
+[submodule "base16-nord-scheme"]
+	path = base16-nord-scheme
+	url = https://github.com/ada-lovecraft/base16-nord-scheme.git
+[submodule "base16-onedark-scheme"]
+	path = base16-onedark-scheme
+	url = https://github.com/tilal6991/base16-onedark-scheme.git
+[submodule "base16-one-light-scheme"]
+	path = base16-one-light-scheme
+	url = https://github.com/purpleKarrot/base16-one-light-scheme.git
+[submodule "base16-outrun-schemes"]
+	path = base16-outrun-schemes
+	url = https://github.com/hugodelahousse/base16-outrun-schemes.git
+[submodule "base16-sandcastle-scheme"]
+	path = base16-sandcastle-scheme
+	url = https://github.com/gessig/base16-sandcastle-scheme.git
+[submodule "base16-snazzy-scheme"]
+	path = base16-snazzy-scheme
+	url = https://github.com/h404bi/base16-snazzy-scheme.git
+[submodule "base16-solarflare-scheme"]
+	path = base16-solarflare-scheme
+	url = https://github.com/mnussbaum/base16-solarflare-scheme.git
+[submodule "base16-solarized-scheme"]
+	path = base16-solarized-scheme
+	url = https://github.com/arzg/base16-solarized-scheme.git
+[submodule "base16-synth-midnight-scheme"]
+	path = base16-synth-midnight-scheme
+	url = https://github.com/michael-ball/base16-synth-midnight-scheme.git
+[submodule "base16-tomorrow-scheme"]
+	path = base16-tomorrow-scheme
+	url = https://github.com/chriskempson/base16-tomorrow-scheme.git
+[submodule "base16-unclaimed-schemes"]
+	path = base16-unclaimed-schemes
+	url = https://github.com/chriskempson/base16-unclaimed-schemes.git
+[submodule "base16-unikitty"]
+	path = base16-unikitty
+	url = https://github.com/joshwlewis/base16-unikitty.git
+[submodule "base16-woodland-scheme"]
+	path = base16-woodland-scheme
+	url = https://github.com/jcornwall/base16-woodland-scheme.git
+[submodule "base16-zenburn-scheme"]
+	path = base16-zenburn-scheme
+	url = https://github.com/elnawe/base16-zenburn-scheme.git
